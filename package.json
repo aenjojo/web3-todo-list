@@ -5,6 +5,7 @@
 	"private": true,
 	"repository": "https://github.com/aenjojo/dapp-todo-list.git",
 	"author": "@aenjojo",
+	"license": "Apache-2.0",
 	"packageManager": "yarn@3.5.1",
 	"main": "truffle-config.js",
 	"directories": {
